@@ -1,25 +1,25 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Universo",
+      "link": "https://www.youtube.com/watch?v=1vZmsRs6084",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Explore outros planetas - Vôo além do sistema solar - Documentário de Ciências Espaciais",
+          "url": "https://www.youtube.com/watch?v=0YfBeuKKe2k"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Como funciona o Universo",
+          "url": "https://www.youtube.com/watch?v=_1vZyIfYmZA"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "E se a Lua desaparecesse?",
+          "url": "https://www.youtube.com/watch?v=wi5yZCEOMRY"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
@@ -40,7 +40,7 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
@@ -66,7 +66,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"

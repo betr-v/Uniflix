@@ -8,14 +8,14 @@ const Button = styled.button`
     padding: 16px 24px;
     font-style: normal;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 20px;
     outline: none;
     border-radius: 5px;
     text-decoration: none;
     display: inline-block;
     transition: opacity .3s;
     }
-    .ButtonLink:hover,
+    /* .ButtonLink:hover, */
     .ButtonLink:focus {
     opacity: .5;
     }

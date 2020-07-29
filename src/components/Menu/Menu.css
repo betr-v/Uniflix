@@ -42,8 +42,8 @@
   }
   
   .ButtonLink {
-    color: var(--white);
-    border: 1px solid var(--white);
+    color: var(--myRed);
+    border: 1px solid var(--myRed);
     box-sizing: border-box;
     cursor: pointer;
     padding: 16px 24px;
@@ -56,9 +56,14 @@
     display: inline-block;
     transition: opacity .3s;
   }
-  .ButtonLink:hover,
+  .ButtonLink:hover{
+        color: var(--primary);
+    background-color: var(--myRed);
+    border: 1px solid var(--primary);
+  },
   .ButtonLink:focus {
-    opacity: .5;
+    /* opacity: .5; */
+
   }
   
   @media (max-width: 800px) {
