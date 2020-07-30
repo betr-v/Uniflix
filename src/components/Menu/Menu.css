@@ -57,10 +57,10 @@
     transition: opacity .3s;
   }
   .ButtonLink:hover{
-        color: var(--primary);
+    color: var(--primary);
     background-color: var(--myRed);
     border: 1px solid var(--primary);
-  },
+  }
   .ButtonLink:focus {
     /* opacity: .5; */
 

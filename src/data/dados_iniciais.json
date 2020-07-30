@@ -5,7 +5,7 @@
       "link": "https://www.youtube.com/watch?v=1vZmsRs6084",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Tudo sobre o universo.",
         "url": ""
       },
       "videos": [
@@ -14,88 +14,88 @@
           "url": "https://www.youtube.com/watch?v=0YfBeuKKe2k"
         },
         {
-          "titulo": "Como funciona o Universo",
-          "url": "https://www.youtube.com/watch?v=_1vZyIfYmZA"
+          "titulo": "Lugar Mais Frio do Universo - Nebulosa do Bumerangue",
+          "url": "https://www.youtube.com/watch?v=zSajP5D6Cac"
         },
         {
           "titulo": "E se a Lua desaparecesse?",
           "url": "https://www.youtube.com/watch?v=wi5yZCEOMRY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Jornada incrível da Terra até o fim do universo - Explore o incrível universo",
+          "url": "https://www.youtube.com/watch?v=ZEWMP7NTirA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Misterios do Universo - Buracos Negros",
+          "url": "https://www.youtube.com/watch?v=1pm7kHuI5Ys"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "O Fim do Universo",
+          "url": "https://www.youtube.com/watch?v=uLh-6mQoQnU"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "A ENERGIA ESCURA | A ENERGIA MISTERIOSA QUE PERMEIA O UNIVERSO",
+          "url": "https://youtu.be/85nc0cHIQ70"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Uma Jornada para Além do Universo",
+          "url": "https://youtu.be/6cwzyY-Grf8"
         }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Marte",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=Gsqp_f_PEcs"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "a EVOLUÇÃO HUMANA em MARTE",
+          "url": "https://www.youtube.com/watch?v=PAbbXwjEttA"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "https://www.youtube.com/watch?v=dWh-tm7ntC0",
+          "url": "https://www.youtube.com/watch?v=dWh-tm7ntC0"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Como o Rover Perseverance vai Ajudar nas Missões Humana a MARTE",
+          "url": "https://www.youtube.com/watch?v=ww8dt_Su2C4"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "5 FATOS SOBRE O PLANETA MARTE",
+          "url": "https://www.youtube.com/watch?v=OeXkmQSNqNU"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "MARTE: O PLANETA VERMELHO EM 360º!",
+          "url": "https://www.youtube.com/watch?v=7kSm291X_ho"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Buracos Negros Explicados",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=lUOEyKViNdE"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Buracos Negros Explicados",
+          "url": "https://www.youtube.com/watch?v=GbJJRsS6OR4"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "BURACOS NEGROS, como eles surgem?",
+          "url": "https://www.youtube.com/watch?v=WvQlhMjGo4M"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Os maiores buracos negros do universo!!",
+          "url": "https://www.youtube.com/watch?v=loj8L3JhSVA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "O QUE ACONTECERIA DE DOIS BURACOS NEGROS COLIDISSEM?",
+          "url": "https://www.youtube.com/watch?v=cp2m4_RQ6W4"
         }
       ]
     },
@@ -122,62 +122,50 @@
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Supernovas",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Supernovas Explicadas: As Maiores Explosões do Universo",
+          "url": "https://www.youtube.com/watch?v=BPKAdgv6XUM"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Crab Supernova Explosion",
+          "url": "https://www.youtube.com/watch?v=aysiMbgml5g"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Less Than Five - What is a Supernova?",
+          "url": "https://www.youtube.com/watch?v=YIKXvDlf8_0"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "ALBERT EINSTEIN",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "ALBERT EINSTEIN - Canal Nostalgia",
+          "url": "https://www.youtube.com/watch?v=gPSk0Xjz0og"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "A Viagem No Tempo | Por Albert Einstein",
+          "url": "https://www.youtube.com/watch?v=kbC2QcgVnhk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "O Espaço-Tempo Explicado",
+          "url": "https://www.youtube.com/watch?v=kJ5xNaSIeTI"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Teoria da Relatividade de Albert Einstein",
+          "url": "https://www.youtube.com/watch?v=qD7tvSBlkpY"
         }
       ]
     }
