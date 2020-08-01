@@ -8,23 +8,22 @@ function CadastroCategoria() {
         nome: '',
         descricao: '',
         cor: '',
-    }
+    };
     const [categorias, setCategorias] = useState([]);
     const [values, setValues] = useState(valoresIniciais);
-
 
     function setValue(chave, valor) {
         // chave: nome, descricao, bla, bli
         setValues({
             ...values,
             [chave]: valor, // nome: 'valor'
-        })
+        });
     }
 
     function handleChange(infosDoEvento) {
         setValue(
             infosDoEvento.target.getAttribute('name'),
-            infosDoEvento.target.value
+            infosDoEvento.target.value,
         );
     }
 
@@ -41,24 +40,28 @@ function CadastroCategoria() {
                         return;
                     }
                     throw new Error('Não foi possível pegar os dados');
-                })
+                });
         }
     }, []);
 
     return (
         <PageDefault>
-            <h1>Cadastro de Categoria: {values.nome}</h1>
+            <h1>
+                Cadastro de Categoria:
+        {values.nome}
+            </h1>
 
             <form onSubmit={function handleSubmit(infosDoEvento) {
                 infosDoEvento.preventDefault();
 
                 setCategorias([
                     ...categorias,
-                    values
+                    values,
                 ]);
 
-                setValues(valoresIniciais)
-            }}>
+                setValues(valoresIniciais);
+            }}
+            >
 
                 <FormField
                     label="Nome da Categoria"
@@ -111,22 +114,19 @@ function CadastroCategoria() {
         </button>
             </form>
 
-
             <ul>
-                {categorias.map((categoria, indice) => {
-                    return (
-                        <li key={`${categoria}${indice}`}>
-                            {categoria.titulo}
-                        </li>
-                    )
-                })}
+                {categorias.map((categoria, indice) => (
+                    <li key={`${categoria}${indice}`}>
+                        {categoria.titulo}
+                    </li>
+                ))}
             </ul>
 
             <Link to="/">
                 Ir para home
       </Link>
         </PageDefault>
-    )
+    );
 }
 
 export default CadastroCategoria;
