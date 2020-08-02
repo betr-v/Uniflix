@@ -2,21 +2,20 @@
     "categorias": [
         {
             "id": 1,
-            "nome": "Front End",
-            "descricao": "",
-            "cor": "#cdb1ff"
-        },
+            "titulo": "Planetas",
+            "cor": "#6BD1FF",
+            "link_extra": {
+                "text": "",
+                "url": "https://youtu.be/0YfBeuKKe2k"
+            }
+        }
+    ],
+    "videos": [
         {
             "id": 1,
-            "nome": "Front End",
-            "descricao": "",
-            "cor": "#cdb1ff"
-        },
-        {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "",
-            "cor": "#cdb1ff"
+            "categoriaId": 1,
+            "titulo": "Explore outros planetas - Vôo além do sistema solar - Documentário de Ciências Espaciais ",
+            "url": "https://youtu.be/0YfBeuKKe2k"
         }
     ]
 }
